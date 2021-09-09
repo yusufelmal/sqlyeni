@@ -1,0 +1,8 @@
+--yorum satýrý burasý--
+
+CREATE TABLE student
+(
+id CHAR(4),
+name VARCHAR(20),
+age NUMBER
+);
